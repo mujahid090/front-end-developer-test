@@ -1,0 +1,33 @@
+.site {
+    overflow: hidden;
+}
+
+.py-87 {
+    padding-top: 87px;
+    padding-bottom: 87px;
+
+    @media (max-width: 1199px) {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    @media (max-width: 991px) {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    @media (max-width: 767px) {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    @media (max-width: 575px) {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    @media (max-width: 414px) {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}
